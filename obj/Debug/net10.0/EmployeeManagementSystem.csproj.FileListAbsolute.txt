@@ -1,0 +1,14 @@
+C:\Users\hamma\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+C:\Users\hamma\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+C:\Users\hamma\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\hamma\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\hamma\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\hamma\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll
